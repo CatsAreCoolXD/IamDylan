@@ -1,6 +1,7 @@
 body {
-  background-image: url("images/achtergrond.jpeg");
+  background-image: url("achtergrond.jpg");
   background-repeat: repeat-x;
+  background-size: 80%;
 }
 h1 {
   color: yellow;
