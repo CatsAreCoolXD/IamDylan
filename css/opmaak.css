@@ -1,5 +1,6 @@
 body {
-  background-color: lightblue;
+  background-image: url("images/achtergrond.jpeg");
+  background-repeat: repeat-x;
 }
 h1 {
   color: yellow;
