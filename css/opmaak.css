@@ -1,7 +1,7 @@
 body {
-  background-image: url("achtergrond.jpg");
-  background-repeat: repeat-x;
-  background-size: 80%;
+  background-image: url("achtergrond.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
 }
 h1 {
   color: yellow;
